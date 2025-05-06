@@ -86,5 +86,5 @@ python new_detect.py
 ## 📷 範例畫面（建議加上截圖）
 
 ```bash
-![Sample Image](images/sample.png)
+![Sample Image](demo.png)
 ```
