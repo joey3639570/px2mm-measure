@@ -86,5 +86,5 @@ python new_detect.py
 ## 📷 範例畫面（建議加上截圖）
 
 ```bash
-![Sample Image](demo.png)
+![Sample Image](https://github.com/joey3639570/px2mm-measure/blob/main/demo.png)
 ```
